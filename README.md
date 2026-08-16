@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pipeline ETL - Base de Clientes com Python e MySQL
 
 Pipeline de ETL para extrair dados de uma planilha Excel, tratar e carregar em um banco de dados MySQL. Projeto feito para simular um fluxo real de tratamento de dados.
@@ -56,3 +57,6 @@ CREATE TABLE clientes (
 Pratiquei manipulação de dados com Pandas, conexão Python com MySQL, validação e limpeza de dados e boas práticas de ETL como tratamento de erro e commit/rollback
 
 feito por Silas Barbosa da Silva
+=======
+#
+>>>>>>> 50b8d028e3020d8a69fb9b9a03d884449a6c15f4
