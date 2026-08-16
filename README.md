@@ -27,14 +27,25 @@ Execute com: `python src/etl_clientes.py`
 Se der tudo certo vai aparecer: `ETL finalizado com sucesso`
 
 ## Estrutura de pastas
-etl-clientes-python-mysql/
+ETL Clientes/
+│
 ├── data/
 │   └── etl_clientes.xlsx
-├── src/
-│   └── etl_clientes.py
+│
 ├── sql/
-│   └── create_table.sql
-└── README.md
+│   └── database.sql
+│
+├── src/
+│   ├── __pycache__/
+│   ├── carga.py
+│   ├── conexao.py
+│   ├── extracao.py
+│   ├── main.py
+│   └── transformacao.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 
 ## Script da tabela
@@ -56,7 +67,8 @@ CREATE TABLE clientes (
 ## Aprendizados
 Pratiquei manipulação de dados com Pandas, conexão Python com MySQL, validação e limpeza de dados e boas práticas de ETL como tratamento de erro e commit/rollback
 
-feito por Silas Barbosa da Silva
-=======
-#
->>>>>>> 50b8d028e3020d8a69fb9b9a03d884449a6c15f4
+
+Feito por **Silas Barbosa da Silva**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-barbosa-1885ab3a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SilasBarbosa44)
