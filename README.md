@@ -48,21 +48,6 @@ ETL Clientes/
 └── requirements.txt
 
 
-## Script da tabela
-
-Use o arquivo em `sql/create_table.sql`:
-```sql
-CREATE TABLE clientes (
-    id_cliente INT PRIMARY KEY,
-    nome VARCHAR(100),
-    email VARCHAR(100),
-    cidade VARCHAR(100),
-    estado VARCHAR(2),
-    salario DECIMAL(10,2),
-    data_cadastro DATE,
-    total_compras DECIMAL(10,2),
-    categoria_cliente VARCHAR(50)
-);
 
 ## Aprendizados
 Pratiquei manipulação de dados com Pandas, conexão Python com MySQL, validação e limpeza de dados e boas práticas de ETL como tratamento de erro e commit/rollback
