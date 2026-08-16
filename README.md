@@ -70,9 +70,9 @@ Pratiquei manipulação de dados com Pandas, conexão Python com MySQL, validaç
 
 Feito por **Silas Barbosa da Silva**
 
-<a href="[https://www.linkedin.com/in/silas-barbosa-1885ab3a0/](https://www.linkedin.com/in/silas-barbosa-1885ab3a0/)" target="_blank">
-  <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/silas-barbosa-1885ab3a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="[https://github.com/SilasBarbosa44](https://github.com/SilasBarbosa44)" target="_blank">
-  <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub">
+<a href="https://github.com/SilasBarbosa44" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
