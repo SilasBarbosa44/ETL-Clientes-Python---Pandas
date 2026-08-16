@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Pipeline ETL - Base de Clientes com Python e MySQL
+#  ETL - Base de Clientes com Python e MySQL
 
 Pipeline de ETL para extrair dados de uma planilha Excel, tratar e carregar em um banco de dados MySQL. Projeto feito para simular um fluxo real de tratamento de dados.
 
